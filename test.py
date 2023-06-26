@@ -5,7 +5,7 @@ class keshav(object):
   def mamey(self):
     marks={"K":[100,97,98],"M":[97,98,89],"A":[35,67,80]}
     queriname = input("Enter name : ")
-    a = 1
+    a = 10
     for i in marks[queriname]:
       i=i+a
       a=i
